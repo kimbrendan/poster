@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <title>Page Title</title>
+   <link href="stylepos.css" rel="stylesheet" type="text/css" />
+</head>
+<body> <center>
+  <div class="lol"
+<div class="pop"
+<h3><p style="text-decoration:underline;"> WRITTEN AND DIRECTED BY  </p></h3>
+  <p><h2> JOEL & ETHAN COEN </h2>
+  <div class = "hello"> <h3><p style="text-decoration:underline;"> STARRING </p></h3>
+  <h2> OSCAR ISSAAC </h2>
+  <h2> CAREY MULLIGAN </h2>
+  <h2> JOHN GOODMAN </h2>
+  <h2> GARRETT HEDLUND </h2>
+  <h2> JUSTIN TIMBERLAKE </h2> </div>
+  <h1> INSIDE </h1>
+  <h1> LLEWYN </h1>
+  <h1> DAVIS </h1>
+  <center> <img class="imgbox" src="guitar.png" alt="Image Name" /> </center>
+  <h3> COMING SOON </h3>
+  <div class="hello"><h3> www.insidellewyndavis.com </h3></p></div>
+</div>
+</div>
+
+</center></body>
